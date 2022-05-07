@@ -3,7 +3,7 @@
 The purpose of the project to learn the fundamentals of the programming language Kotlin and IntelliJ IDEA.
 Creating an interactive website using Ktor for a game called "Magic 8 Ball".
 
-You can watch a video of a demo to demostrate my program [Demo of Magic 8 Ball](https://youtu.be/Vv0HkZWzXRo)
+You can watch a video of a demo to demostrate my program [Demo of Magic 8 Ball](https://youtu.be/VHUi-kGCu_U)
 
 # Development Environment
 
